@@ -1,7 +1,8 @@
 import React from 'react';
+import InformHome from 'components/Home/InformHome';
 
 const Home = () => {
-  return <div>Home</div>;
+  return <InformHome />;
 };
 
 export default Home;
